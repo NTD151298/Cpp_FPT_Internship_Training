@@ -1,0 +1,19 @@
+﻿  Assignment 3_Op1 - Pointer, Reference.cpp
+C:\Users\ADMIN\Desktop\Xê cộng cộng\Assignment 3_Op1 - Pointer, Reference\Assignment 3_Op1 - Pointer, Reference\Assignment 3_Op1 - Pointer, Reference.cpp(60,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\algorithm(7459,5): error C2672: '_Sort_unchecked': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\algorithm(7463): message : see reference to function template instantiation 'void std::sort<_RanIt,std::less<void>>(const _RanIt,const _RanIt,_Pr)' being compiled
+          with
+          [
+              _RanIt=int,
+              _Pr=std::less<void>
+          ]
+C:\Users\ADMIN\Desktop\Xê cộng cộng\Assignment 3_Op1 - Pointer, Reference\Assignment 3_Op1 - Pointer, Reference\Assignment 3_Op1 - Pointer, Reference.cpp(85): message : see reference to function template instantiation 'void std::sort<int>(const _RanIt,const _RanIt)' being compiled
+          with
+          [
+              _RanIt=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\algorithm(7455,1): error C2893: Failed to specialize function template 'void std::_Sort_unchecked(_RanIt,_RanIt,iterator_traits<_Iter>::difference_type,_Pr)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\algorithm(7425): message : see declaration of 'std::_Sort_unchecked'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\algorithm(7455,1): message : With the following template arguments:
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\algorithm(7455,1): message : '_RanIt=_RanIt'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\algorithm(7455,1): message : '_Pr=_Fn'

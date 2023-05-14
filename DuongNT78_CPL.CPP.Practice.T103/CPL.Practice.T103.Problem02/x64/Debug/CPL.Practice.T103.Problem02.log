@@ -1,0 +1,4 @@
+﻿  CPL.Practice.T103.Problem02.cpp
+C:\Users\ADMIN\Desktop\Xê cộng cộng\DuongNT78_CPL.Practice.T103\CPL.Practice.T103.Problem02\CPL.Practice.T103.Problem02.cpp(13,50): warning C4101: 'arr1': unreferenced local variable
+C:\Users\ADMIN\Desktop\Xê cộng cộng\DuongNT78_CPL.Practice.T103\CPL.Practice.T103.Problem02\CPL.Practice.T103.Problem02.cpp(13,36): warning C4101: 'j': unreferenced local variable
+  CPL.Practice.T103.Problem02.vcxproj -> C:\Users\ADMIN\Desktop\Xê cộng cộng\DuongNT78_CPL.Practice.T103\x64\Debug\CPL.Practice.T103.Problem02.exe

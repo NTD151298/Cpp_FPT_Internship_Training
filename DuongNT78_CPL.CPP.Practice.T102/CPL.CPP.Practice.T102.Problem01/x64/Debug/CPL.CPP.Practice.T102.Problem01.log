@@ -1,0 +1,3 @@
+﻿  CPL.CPP.Practice.T102.Problem01.cpp
+C:\Users\ADMIN\Desktop\Xê cộng cộng\DuongNT78_CPL.CPP.Practice.T102\CPL.CPP.Practice.T102.Problem01\CPL.CPP.Practice.T102.Problem01.cpp(36,30): warning C4805: '==': unsafe mix of type 'bool' and type 'float' in operation
+  CPL.CPP.Practice.T102.Problem01.vcxproj -> C:\Users\ADMIN\Desktop\Xê cộng cộng\DuongNT78_CPL.CPP.Practice.T102\x64\Debug\CPL.CPP.Practice.T102.Problem01.exe

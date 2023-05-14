@@ -1,0 +1,7 @@
+﻿  CheckOddOrEven2.cpp
+C:\Users\ADMIN\Desktop\Xê cộng cộng\CheckOddOrEven2\CheckOddOrEven2\CheckOddOrEven2.cpp(20): error C4700: uninitialized local variable 'y1' used
+C:\Users\ADMIN\Desktop\Xê cộng cộng\CheckOddOrEven2\CheckOddOrEven2\CheckOddOrEven2.cpp(20): error C4700: uninitialized local variable 'x1' used
+C:\Users\ADMIN\Desktop\Xê cộng cộng\CheckOddOrEven2\CheckOddOrEven2\CheckOddOrEven2.cpp(20): error C4700: uninitialized local variable 'y2' used
+C:\Users\ADMIN\Desktop\Xê cộng cộng\CheckOddOrEven2\CheckOddOrEven2\CheckOddOrEven2.cpp(20): error C4700: uninitialized local variable 'x2' used
+C:\Users\ADMIN\Desktop\Xê cộng cộng\CheckOddOrEven2\CheckOddOrEven2\CheckOddOrEven2.cpp(21): error C4700: uninitialized local variable 'z1' used
+C:\Users\ADMIN\Desktop\Xê cộng cộng\CheckOddOrEven2\CheckOddOrEven2\CheckOddOrEven2.cpp(21): error C4700: uninitialized local variable 'z2' used
